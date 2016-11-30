@@ -1,4 +1,4 @@
-language recognision AI by Jonathan Dönszelmann
+language recognision AI by Jonay2000
 
 to use: install pyton with the following modules:
 numpy
@@ -15,6 +15,3 @@ To start teaching the machine: run langrecog.py, select how many learning cycles
 To test the AI on what it learned, run execute.py and type some words. It will say what language it is (standard english and dutch) and how sure it is. This certainty will increase if you tain it longer. The training files it will use to execute are the 4 in the main folder. These will also be overwritten when you teach it new things. that's why there is a second folder with more training files. Initally it is loaded with training files from 2 million training cycles. This will work pretty well.
 
 please do not copy and/or distribte without my permissions. Of course you can use it to learn yourself or others to make neural networks.
-
-contact info:
-jonaben@gmail.com
